@@ -35,5 +35,7 @@ Feel free to modify and extend the bot's responses and functionality!
 
 #### Brought to you by Christopher Hacia
 - [GitHub](https://github.com/chrishacia)
+- [LinkedIn](https://linkedin.com/in/chrishacia)
+- You can find me on [Discord](https://discord.gg/btpqdGEHpq) as SevenSparxx
 - [https://chrishacia.com](https://chrishacia.com)
 - [https://coderlife.net](https://coderlife.net) (coming soon)
