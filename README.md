@@ -2,7 +2,7 @@
 This project demonstrates how to create a simple chatbot using HTML, CSS, and JavaScript. The chatbot can respond to user inputs with predefined messages and can handle various types of greetings, inquiries, and farewells.
 
 ## Live Demo
-You can view the live demo [here](https://adhddev.github.io/simple-javascript-chatbot).
+You can view the live demo [here](https://adhddev.github.io/simple-chatbot/).
 
 ## Project Structure
 - index.html
